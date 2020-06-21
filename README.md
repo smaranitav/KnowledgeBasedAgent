@@ -1,9 +1,8 @@
 # KnowledgeBasedAgent
-Developed a KB-agent(Knowledge based agent) which works by using first-order logic resolution to infer if a certain statement is entailed by the knowledge base. Input data will be encoded as first order logic clausesin the knowledge base. The program takes a query of new drug list and provide a logical conclusion whether to issue a warning.The program takes a query and the output is a logical conclusion based on the statements in the knowledge base. Worked on this project during the course of CSCI-561 Artificial Intelligence at USC. 
+Developed a KB-agent(Knowledge based agent) which works by using first-order logic resolution to infer if a certain statement is entailed by the knowledge base. Input data will be encoded as first order logic clausesin the knowledge base. The program takes a query of new medical drug list and provide a logical conclusion whether to issue a warning.The program takes a query and the output is a logical conclusion based on the statements in the knowledge base. Worked on this project during the course of CSCI-561 Artificial Intelligence at USC. 
 
 # Overview
-This project was developed as a beta version of a self-service automated system to alert customers about potential drug interactions for both prescription and over-the-counter drugs. Patient history and drug compatibility data will be encoded as first order logic clauses
-in the knowledge base. The program takes a query of new drug list and provide a logical conclusion whether to issue a warning.
+This project was developed as a beta version of a self-service automated system to alert customers about potential drug interactions for both prescription and over-the-counter drugs. Patient history and medical drug compatibility data will be encoded as first order logic clauses in the knowledge base. The program takes a query of new medical drug list and provide a logical conclusion whether to issue a warning.
 
 # NOTE
 This program works for any knowledge base as long as the sentences in knowledge base comply with the requirements as shown below
